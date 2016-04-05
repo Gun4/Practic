@@ -1,0 +1,11 @@
+build/
+_build
+dist/
+*.sublime-*
+*.komodo*
+*.pyc
+MANIFEST
+chromedriver.log
+*egg-info
+.cache
+.testmondata
